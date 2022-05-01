@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Ninja legnds made by Accelerator", "Sentinel")
+local Window = Library.CreateLib("Ninja legends made by Accelerator", "Sentinel")
 local Main = Window:NewTab("Main")
 local MainSection = Main:NewSection("Main")
 
